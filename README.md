@@ -1,2 +1,2 @@
 # Addition-of-two-Number
-Add Two Numbers Provided by The User
+Simpale Add Two Numbers Provided by The User
